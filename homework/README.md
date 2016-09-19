@@ -1,4 +1,4 @@
-안녕하세요 김지훈의 Github 입니다.
+안녕하세요 김지훈의 Github 입니다. 이 폴더는 homework 폴더입니다.
 
 * [iosSchool]
 * [HomeWork]
