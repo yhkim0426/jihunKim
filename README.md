@@ -1,4 +1,4 @@
-안녕하세요 김지훈의 Github 입니다.
+안녕하세요 김지훈의 Github_Main 입니다.
 
 * [iosSchool]
 * [HomeWork]
