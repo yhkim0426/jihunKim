@@ -1,4 +1,4 @@
-안녕하세요 김지훈의 Github_iosSchool 페이지 입니다.
+안녕하세요 김지훈의 Github_iosSchool 입니다.
 
 * [Home]
 
